@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+Matheus+Melo+%F0%9F%91%8B;Desenvolvedor+em+forma%C3%A7%C3%A3o+%F0%9F%92%BB;Python+%7C+Desenvolvimento+Web+%7C+Git;Construindo+projetos+e+evoluindo+todos+os+dias+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+Matheus+Melo+%F0%9F%91%8B" alt="Typing SVG" />
 
 <br>
 
@@ -41,24 +41,11 @@ Gosto de aprender através de projetos práticos, buscando transformar o que est
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
+---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=suetham08&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suetham08&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=suetham08&theme=github-dark-blue&hide_border=true" />
-
-</div>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=suetham08&custom_title=Meus%20Status%20GitHub&show_icons=true&include_all_commits=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=suetham08&custom_title=Meus%20Status%20GitHub&show_icons=true&include_all_commits=true&theme=midnight-purple)
 
 ---
 
