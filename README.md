@@ -34,42 +34,13 @@ Gosto de aprender através de projetos práticos, buscando transformar o que est
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-Principal%20foco-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Python](https://img.shields.io/badge/Python%20-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
-</div>
-
----
-
-## 🚀 Projetos
-
-### 🎬 Frame
-
-Uma plataforma inspirada em redes sociais voltada para filmes.
-
-A ideia é permitir que usuários compartilhem filmes assistidos, avaliações e opiniões, criando um espaço para descobrir e registrar experiências cinematográficas.
-
-**Tecnologias:** `HTML` `CSS` `JavaScript`
-
----
-
-### 🐍 Projetos em Python
-
-Projetos desenvolvidos durante minha evolução com Python, colocando em prática conceitos de programação através de aplicações e pequenos sistemas.
-
-**Práticas:** `Lógica` `Funções` `POO` `Interfaces` `Automação`
-
----
-
-### 🎓 Projetos acadêmicos
-
-Projetos desenvolvidos durante minha formação em **Análise e Desenvolvimento de Sistemas**, envolvendo programação, resolução de problemas, Git/GitHub e trabalho em equipe.
-
----
 
 ## 📊 GitHub Stats
 
