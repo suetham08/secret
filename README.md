@@ -62,26 +62,6 @@ Gosto de aprender através de projetos práticos, buscando transformar o que est
 
 ---
 
-## 📈 Atividade no GitHub
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=suetham08&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="95%" />
-
-</div>
-
----
-
-## 🐍 Minhas contribuições
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animação das contribuições do GitHub" />
-
-</div>
-
----
-
 ## 🌐 Onde me encontrar
 
 <div align="center">
