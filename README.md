@@ -28,6 +28,14 @@
 <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+## 📊 GitHub Status
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=suetham08&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suetham08&layout=compact&theme=tokyonight" />
+</p>
+
+
 <br><br>
 
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=suetham08&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa"/>
