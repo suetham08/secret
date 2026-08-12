@@ -28,8 +28,6 @@ Gosto de aprender através de projetos práticos, buscando transformar o que est
 
 <br><br>
 
-### Ferramentas
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 
 </div>
