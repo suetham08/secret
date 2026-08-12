@@ -16,17 +16,15 @@ Atualmente, meu principal foco é **Python**, enquanto desenvolvo minha base em 
 
 Gosto de aprender através de projetos práticos, buscando transformar o que estudo em aplicações e soluções reais.
 
----
-
-## 🛠️ Tecnologias
-
 <div align="center">
 
 ### Linguagens
 
 <img src="https://skillicons.dev/icons?i=python,html,css,js" />
 
-<br><br>
+<br>
+
+### Ferramentaas
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 
