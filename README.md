@@ -4,27 +4,6 @@
 
 <br>
 
-### 🎓 Análise e Desenvolvimento de Sistemas
-
-**Python • Desenvolvimento Web • Git & GitHub**
-
-<br>
-
-<a href="https://github.com/suetham08">
-  <img src="https://img.shields.io/badge/GitHub-suetham08-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/matheus-de-melo-99a85b371/">
-  <img src="https://img.shields.io/badge/LinkedIn-Matheus%20Melo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=suetham08&label=Visualiza%C3%A7%C3%B5es+do+perfil&color=58A6FF&style=flat" />
-
-</div>
-
----
-
 ## 👨‍💻 Sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor em formação.
