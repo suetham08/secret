@@ -16,8 +16,6 @@
 
 🐍 Atualmente focado em **Python, Web e desenvolvimento de projetos**
 
-💻 Aprendendo através da prática e construindo meu portfólio
-
 </samp>
 
 <br><br>
@@ -26,7 +24,7 @@
 <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/matheus-de-melo-99a85b371/)">
 <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
